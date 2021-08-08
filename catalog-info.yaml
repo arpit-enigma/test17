@@ -4,12 +4,12 @@ metadata:
   name: devx
   description: The place to be, for great artists
   labels:
-    example.com/custom: custom_label_value   		[can get via /tag URL...at the end of the URL of repo..but may get default ones only]
+    example.com/custom: custom_label_value
   annotations:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
   tags:
-    - java    										 [can get via /tag URL...at the end of the URL of repo..but may get default ones only]
+    - java
   links:
     - url: https://admin.example-org.com
       title: Admin Dashboard
