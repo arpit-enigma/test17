@@ -1,4 +1,4 @@
-apiVersion: test14/v1alpha1
+apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test14
