@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1
 kind: Component
 metadata:
-  name: test13
+  name: test15
   description: No default description found. This is a CBRE Software Component, please\
     \ contact Dev team at given contact information.
   tags:
