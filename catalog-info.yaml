@@ -1,14 +1,14 @@
-apiVersion: backstage.io/v1alpha1
+apiVersion: backstage.io/v1
 kind: Component
 metadata:
-  name: test14
+  name: test13
   description: No default description found. This is a CBRE Software Component, please\
     \ contact Dev team at given contact information.
   tags:
   - v1
-  - v1beta
-  - devxcharlie
+  - v1Beta
+  - devx_charlie
 spec:
-  type: website
-  lifecycle: production
-  owner: artist-relations-team
+  type: Software Component
+  lifecycle: Production
+  owner: No email specified
