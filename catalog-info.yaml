@@ -1,0 +1,10 @@
+apiVersion: " test13/v1alpha1"
+kind: "Component"
+metadata:
+  name: " test13"
+  description: "No default description found. This is a CBRE Software Component, please\
+    \ contact Dev team at given contact information."
+  tags:
+  - "v1"
+  - "v1Beta"
+  - "devx_charlie"
