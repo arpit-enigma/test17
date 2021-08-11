@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test17
+  description: No default description found. This is a CBRE Software Component, please\
+    \ contact Dev team at given contact information.
+  tags:
+  - v1
+  - v1Beta
+  - devx_charlie
+spec:
+  type: Software Component
+  lifecycle: Production
+  owner: No email specified
