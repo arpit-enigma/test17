@@ -8,7 +8,7 @@ metadata:
   - v1
   - v1beta
   - devxcharlie
- spec:
+spec:
   type: website
   lifecycle: production
   owner: artist-relations-team
